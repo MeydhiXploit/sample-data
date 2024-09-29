@@ -1,0 +1,603 @@
+[
+  {
+    "name": "Meydhi Ari Nugroho",
+    "birthdate": "1995-02-14",
+    "address": {
+      "street": "Jalan Melati No. 10",
+      "city": "Bandung",
+      "province": "Jawa Barat",
+      "postal_code": "40225"
+    },
+    "education": [
+      {
+        "institution": "Universitas Padjadjaran",
+        "degree": "Sarjana",
+        "major": "Ilmu Komputer",
+        "year_of_graduation": "2018"
+      }
+    ],
+    "skills": ["Python", "Django", "PostgreSQL"],
+    "work_experience": [
+      {
+        "company": "PT Inovasi Digital",
+        "position": "Backend Developer",
+        "start_date": "2018-09",
+        "end_date": "2021-06",
+        "responsibilities": ["Mengembangkan API", "Mengelola database"]
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Juara 1 Hackathon Bandung",
+        "description": "Menjuarai hackathon tingkat kota.",
+        "date": "2019-12-05"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "AWS Certified Developer",
+        "institution": "Amazon Web Services",
+        "date_of_issue": "2020-08-14"
+      }
+    ],
+    "languages": [
+      {
+        "language": "Bahasa Indonesia",
+        "proficiency_level": "Native"
+      },
+      {
+        "language": "English",
+        "proficiency_level": "Fluent"
+      }
+    ],
+    "contacts": {
+      "email": "adit.wijaya@example.com",
+      "phone": "+62 812 3456 7890",
+      "github": "https://github.com/aditwijaya",
+      "linkedin": "https://linkedin.com/in/aditwijaya"
+    }
+  },
+  {
+    "name": "Dewi Lestari",
+    "birthdate": "1997-07-09",
+    "address": {
+      "street": "Jalan Mawar No. 2",
+      "city": "Denpasar",
+      "province": "Bali",
+      "postal_code": "80361"
+    },
+    "education": [
+      {
+        "institution": "Universitas Udayana",
+        "degree": "Sarjana",
+        "major": "Sistem Informasi",
+        "year_of_graduation": "2019"
+      }
+    ],
+    "skills": ["HTML", "CSS", "JavaScript", "React"],
+    "work_experience": [
+      {
+        "company": "PT Bali Digital",
+        "position": "Frontend Developer",
+        "start_date": "2019-07",
+        "end_date": "Sekarang",
+        "responsibilities": ["Mendesain UI/UX", "Mengembangkan aplikasi web"]
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Juara 2 Lomba Web Design",
+        "description": "Meraih juara kedua dalam lomba desain web nasional.",
+        "date": "2020-11-20"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Google UX Design Certificate",
+        "institution": "Google",
+        "date_of_issue": "2021-03-15"
+      }
+    ],
+    "languages": [
+      {
+        "language": "Bahasa Indonesia",
+        "proficiency_level": "Native"
+      },
+      {
+        "language": "English",
+        "proficiency_level": "Advanced"
+      }
+    ],
+    "contacts": {
+      "email": "dewi.lestari@example.com",
+      "phone": "+62 811 5678 9101",
+      "github": "https://github.com/dewilestari",
+      "linkedin": "https://linkedin.com/in/dewilestari"
+    }
+  },
+  {
+    "name": "Budi Santoso",
+    "birthdate": "1994-03-21",
+    "address": {
+      "street": "Jalan Cemara No. 17",
+      "city": "Yogyakarta",
+      "province": "DI Yogyakarta",
+      "postal_code": "55122"
+    },
+    "education": [
+      {
+        "institution": "Universitas Gadjah Mada",
+        "degree": "Sarjana",
+        "major": "Teknik Elektro",
+        "year_of_graduation": "2016"
+      }
+    ],
+    "skills": ["C++", "Python", "Embedded Systems"],
+    "work_experience": [
+      {
+        "company": "PT Teknologi Nusantara",
+        "position": "Embedded Systems Engineer",
+        "start_date": "2017-02",
+        "end_date": "Sekarang",
+        "responsibilities": [
+          "Mengembangkan sistem tertanam untuk perangkat IoT",
+          "Menguji perangkat keras"
+        ]
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Finalis Kompetisi IoT Nasional",
+        "description": "Berhasil menjadi finalis dalam kompetisi IoT tingkat nasional.",
+        "date": "2021-10-12"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Cisco Certified Network Associate (CCNA)",
+        "institution": "Cisco",
+        "date_of_issue": "2019-05-20"
+      }
+    ],
+    "languages": [
+      {
+        "language": "Bahasa Indonesia",
+        "proficiency_level": "Native"
+      },
+      {
+        "language": "English",
+        "proficiency_level": "Fluent"
+      }
+    ],
+    "contacts": {
+      "email": "budi.santoso@example.com",
+      "phone": "+62 819 2345 6789",
+      "github": "https://github.com/budisantoso",
+      "linkedin": "https://linkedin.com/in/budisantoso"
+    }
+  },
+  {
+    "name": "Siti Nuraini",
+    "birthdate": "1996-12-01",
+    "address": {
+      "street": "Jalan Bunga Kamboja No. 8",
+      "city": "Malang",
+      "province": "Jawa Timur",
+      "postal_code": "65123"
+    },
+    "education": [
+      {
+        "institution": "Universitas Brawijaya",
+        "degree": "Sarjana",
+        "major": "Teknik Informatika",
+        "year_of_graduation": "2018"
+      }
+    ],
+    "skills": ["Java", "Spring Boot", "Microservices"],
+    "work_experience": [
+      {
+        "company": "PT Software Solusi",
+        "position": "Java Developer",
+        "start_date": "2018-08",
+        "end_date": "Sekarang",
+        "responsibilities": [
+          "Mengembangkan aplikasi enterprise",
+          "Mendesain arsitektur microservices"
+        ]
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Juara 1 Lomba Coding Nasional",
+        "description": "Memenangkan lomba coding tingkat nasional.",
+        "date": "2022-07-18"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Oracle Certified Professional, Java SE 11 Developer",
+        "institution": "Oracle",
+        "date_of_issue": "2020-09-14"
+      }
+    ],
+    "languages": [
+      {
+        "language": "Bahasa Indonesia",
+        "proficiency_level": "Native"
+      },
+      {
+        "language": "English",
+        "proficiency_level": "Advanced"
+      }
+    ],
+    "contacts": {
+      "email": "siti.nuraini@example.com",
+      "phone": "+62 813 4567 8910",
+      "github": "https://github.com/sitinuraini",
+      "linkedin": "https://linkedin.com/in/sitinuraini"
+    }
+  },
+  {
+    "name": "Rizky Pratama",
+    "birthdate": "1999-06-15",
+    "address": {
+      "street": "Jalan Mangga No. 20",
+      "city": "Medan",
+      "province": "Sumatera Utara",
+      "postal_code": "20153"
+    },
+    "education": [
+      {
+        "institution": "Universitas Sumatera Utara",
+        "degree": "Sarjana",
+        "major": "Teknik Komputer",
+        "year_of_graduation": "2021"
+      }
+    ],
+    "skills": ["Python", "Data Science", "Machine Learning"],
+    "work_experience": [
+      {
+        "company": "PT Data Analitik",
+        "position": "Data Scientist",
+        "start_date": "2021-09",
+        "end_date": "Sekarang",
+        "responsibilities": [
+          "Menganalisis data untuk bisnis",
+          "Mengembangkan model machine learning"
+        ]
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Juara 3 Data Science Competition",
+        "description": "Mendapatkan peringkat ketiga dalam kompetisi data science tingkat nasional.",
+        "date": "2022-11-25"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "TensorFlow Developer Certificate",
+        "institution": "Google",
+        "date_of_issue": "2021-06-05"
+      }
+    ],
+    "languages": [
+      {
+        "language": "Bahasa Indonesia",
+        "proficiency_level": "Native"
+      },
+      {
+        "language": "English",
+        "proficiency_level": "Advanced"
+      }
+    ],
+    "contacts": {
+      "email": "rizky.pratama@example.com",
+      "phone": "+62 812 3456 7890",
+      "github": "https://github.com/rizkypratama",
+      "linkedin": "https://linkedin.com/in/rizkypratama"
+    }
+  },
+  {
+    "name": "Yulia Kurniawati",
+    "birthdate": "1998-05-03",
+    "address": {
+      "street": "Jalan Melur No. 12",
+      "city": "Makassar",
+      "province": "Sulawesi Selatan",
+      "postal_code": "90245"
+    },
+    "education": [
+      {
+        "institution": "Universitas Hasanuddin",
+        "degree": "Sarjana",
+        "major": "Teknik Informatika",
+        "year_of_graduation": "2020"
+      }
+    ],
+    "skills": ["PHP", "Laravel", "MySQL"],
+    "work_experience": [
+      {
+        "company": "PT Solusi Teknologi",
+        "position": "Full-stack Developer",
+        "start_date": "2020-10",
+        "end_date": "Sekarang",
+        "responsibilities": ["Mengembangkan aplikasi web", "Mengelola database"]
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Best Innovator Award",
+        "description": "Menerima penghargaan inovator terbaik dalam acara startup lokal.",
+        "date": "2023-01-15"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Certified Laravel Developer",
+        "institution": "Laravel Certification",
+        "date_of_issue": "2021-09-22"
+      }
+    ],
+    "languages": [
+      {
+        "language": "Bahasa Indonesia",
+        "proficiency_level": "Native"
+      },
+      {
+        "language": "English",
+        "proficiency_level": "Advanced"
+      }
+    ],
+    "contacts": {
+      "email": "yulia.kurniawati@example.com",
+      "phone": "+62 812 5678 9012",
+      "github": "https://github.com/yuliakurniawati",
+      "linkedin": "https://linkedin.com/in/yuliakurniawati"
+    }
+  },
+  {
+    "name": "Firman Siregar",
+    "birthdate": "1993-11-12",
+    "address": {
+      "street": "Jalan Anggrek No. 4",
+      "city": "Palembang",
+      "province": "Sumatera Selatan",
+      "postal_code": "30129"
+    },
+    "education": [
+      {
+        "institution": "Politeknik Negeri Sriwijaya",
+        "degree": "Diploma",
+        "major": "Manajemen Informatika",
+        "year_of_graduation": "2014"
+      }
+    ],
+    "skills": ["SQL", "Data Analysis", "Power BI"],
+    "work_experience": [
+      {
+        "company": "PT Analis Data",
+        "position": "Data Analyst",
+        "start_date": "2015-04",
+        "end_date": "Sekarang",
+        "responsibilities": [
+          "Menganalisis data operasional",
+          "Menyajikan data dalam bentuk visual"
+        ]
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Employee of the Year",
+        "description": "Dinobatkan sebagai karyawan terbaik dalam perusahaan.",
+        "date": "2021-12-31"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Microsoft Certified: Data Analyst Associate",
+        "institution": "Microsoft",
+        "date_of_issue": "2019-03-14"
+      }
+    ],
+    "languages": [
+      {
+        "language": "Bahasa Indonesia",
+        "proficiency_level": "Native"
+      },
+      {
+        "language": "English",
+        "proficiency_level": "Fluent"
+      }
+    ],
+    "contacts": {
+      "email": "firman.siregar@example.com",
+      "phone": "+62 812 6789 0123",
+      "github": "https://github.com/firmansiregar",
+      "linkedin": "https://linkedin.com/in/firmansiregar"
+    }
+  },
+  {
+    "name": "Nurul Hidayati",
+    "birthdate": "1992-01-17",
+    "address": {
+      "street": "Jalan Nangka No. 9",
+      "city": "Banda Aceh",
+      "province": "Aceh",
+      "postal_code": "23111"
+    },
+    "education": [
+      {
+        "institution": "Universitas Syiah Kuala",
+        "degree": "Sarjana",
+        "major": "Teknik Sipil",
+        "year_of_graduation": "2014"
+      }
+    ],
+    "skills": ["AutoCAD", "Civil Engineering", "Project Management"],
+    "work_experience": [
+      {
+        "company": "PT Konstruksi Aceh",
+        "position": "Civil Engineer",
+        "start_date": "2015-07",
+        "end_date": "Sekarang",
+        "responsibilities": [
+          "Merancang struktur bangunan",
+          "Mengawasi proyek konstruksi"
+        ]
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Best Project Manager",
+        "description": "Penghargaan untuk manajer proyek terbaik di perusahaan.",
+        "date": "2022-06-10"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Project Management Professional (PMP)",
+        "institution": "PMI",
+        "date_of_issue": "2020-10-25"
+      }
+    ],
+    "languages": [
+      {
+        "language": "Bahasa Indonesia",
+        "proficiency_level": "Native"
+      },
+      {
+        "language": "English",
+        "proficiency_level": "Advanced"
+      }
+    ],
+    "contacts": {
+      "email": "nurul.hidayati@example.com",
+      "phone": "+62 812 1234 5678",
+      "github": "https://github.com/nurulhidayati",
+      "linkedin": "https://linkedin.com/in/nurulhidayati"
+    }
+  },
+  {
+    "name": "Dimas Kurniawan",
+    "birthdate": "1995-08-30",
+    "address": {
+      "street": "Jalan Srikaya No. 14",
+      "city": "Pontianak",
+      "province": "Kalimantan Barat",
+      "postal_code": "78115"
+    },
+    "education": [
+      {
+        "institution": "Universitas Tanjungpura",
+        "degree": "Sarjana",
+        "major": "Teknik Informatika",
+        "year_of_graduation": "2017"
+      }
+    ],
+    "skills": ["Node.js", "Express.js", "MongoDB"],
+    "work_experience": [
+      {
+        "company": "PT Startup Digital",
+        "position": "Full-stack Developer",
+        "start_date": "2018-03",
+        "end_date": "Sekarang",
+        "responsibilities": [
+          "Membangun aplikasi web dari backend hingga frontend",
+          "Mengelola database"
+        ]
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Top 5 Finalist Startup Pitch",
+        "description": "Berhasil menjadi finalis dalam kompetisi startup pitch.",
+        "date": "2023-08-12"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "MongoDB Certified Developer",
+        "institution": "MongoDB University",
+        "date_of_issue": "2022-11-02"
+      }
+    ],
+    "languages": [
+      {
+        "language": "Bahasa Indonesia",
+        "proficiency_level": "Native"
+      },
+      {
+        "language": "English",
+        "proficiency_level": "Fluent"
+      }
+    ],
+    "contacts": {
+      "email": "dimas.kurniawan@example.com",
+      "phone": "+62 812 7890 1234",
+      "github": "https://github.com/dimaskurniawan",
+      "linkedin": "https://linkedin.com/in/dimaskurniawan"
+    }
+  },
+  {
+    "name": "Anisa Putri",
+    "birthdate": "1997-04-20",
+    "address": {
+      "street": "Jalan Durian No. 7",
+      "city": "Pekanbaru",
+      "province": "Riau",
+      "postal_code": "28113"
+    },
+    "education": [
+      {
+        "institution": "Universitas Riau",
+        "degree": "Sarjana",
+        "major": "Ekonomi",
+        "year_of_graduation": "2019"
+      }
+    ],
+    "skills": ["Financial Analysis", "Excel", "SQL"],
+    "work_experience": [
+      {
+        "company": "PT Keuangan Riau",
+        "position": "Financial Analyst",
+        "start_date": "2019-08",
+        "end_date": "Sekarang",
+        "responsibilities": [
+          "Menganalisis keuangan perusahaan",
+          "Membuat laporan keuangan"
+        ]
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Employee of the Month",
+        "description": "Dinobatkan sebagai karyawan terbaik pada bulan Agustus 2022.",
+        "date": "2022-08-31"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Chartered Financial Analyst (CFA)",
+        "institution": "CFA Institute",
+        "date_of_issue": "2021-05-15"
+      }
+    ],
+    "languages": [
+      {
+        "language": "Bahasa Indonesia",
+        "proficiency_level": "Native"
+      },
+      {
+        "language": "English",
+        "proficiency_level": "Fluent"
+      }
+    ],
+    "contacts": {
+      "email": "anisa.putri@example.com",
+      "phone": "+62 812 2345 6789",
+      "github": "https://github.com/anisaputri",
+      "linkedin": "https://linkedin.com/in/anisaputri"
+    }
+  }
+]
